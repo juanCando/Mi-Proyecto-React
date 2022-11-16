@@ -3,3 +3,9 @@
     margin-top: 20px;
     margin-right: 50px;
 }
+
+.menu_navbar_logo{
+    display: flex;
+    margin: 10px;
+    padding: 0px;
+}

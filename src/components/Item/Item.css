@@ -1,0 +1,30 @@
+.img_Item{
+    width: 300px;
+    height: 300px;
+    border-radius: 100px;
+}
+.box_Item{
+    display: flex;
+    justify-content: center;
+    border-radius: 100px;
+    background-color: rgb(187, 206, 200);
+    flex-wrap: wrap;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box_name{
+    text-align: center;
+}
+
+.button_agregar{
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.button_agregar:hover {
+   background-color: #00c69f!important;
+    color: white!important;
+}

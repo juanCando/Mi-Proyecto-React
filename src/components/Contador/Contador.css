@@ -1,0 +1,23 @@
+.box-contador{
+    background-color: rgb(187, 206, 200);
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.box-button{
+    align-items: center;
+}
+
+.boton{
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.boton:hover {
+   background-color: #00c69f!important;
+    color: white!important;
+}

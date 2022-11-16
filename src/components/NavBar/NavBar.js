@@ -16,7 +16,10 @@ const NavBar = () => {
                 <a href="" className="menu-list">accesorios</a>
             </li>
         </ul>
+        
+
         <CartWidget></CartWidget>
+        
     </div>
   )
 }
